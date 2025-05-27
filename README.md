@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Mahjoub – **Based in KSA** 👨‍💻 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Backend+Dev+%7C+Python+Enthusiast;mocode77+@pedrotechnologies;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Backend+Dev+%7C+Python+Enthusiast;Python+🚀 Modern RESTful practices;" alt="Typing SVG" />
 </div>
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-## 📚 About **OZCCO API Documentation**
+## 📚 About **OZCCO API Documentation | Making By Python**
 
 Welcome to the **OZCCO API Documentation** — a complete developer reference crafted as part of my full video course. This guide is packed with:
 
