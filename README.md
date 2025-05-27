@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 <!-- - 🎥 I teach web dev to **millions** on **[YouTube](https://youtube.com/@pedrotechnologies)**  -->
-- 🎯 I’m working web dev to **CTO** on **[Almusanid](https://almusanid.com/)**
+- 🎯 I’m working web dev to **CTO** on **[Almusanid](https://almusanid.com/)** My **[Profile](https://codegloble.com/)**
 - 🐙 My GitHub **[CTO-development](https://github.com/CTO-development)**
 - 🐧 My server Backend on **[APIs](https://khuzam.io/)**
 - 💻 Passionate about building fullstack apps with **JavaScript**, **PHP**, **Python**, **Next.js**, **TypeScript**, and **Supabase**
