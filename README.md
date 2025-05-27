@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Mahjoub – aka **PedroTech** 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;YouTuber+@pedrotechnologies;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Backend+Dev+%7C+React+Enthusiast;YouTuber+@pedrotechnologies;" alt="Typing SVG" />
 </div>
 
 ---
