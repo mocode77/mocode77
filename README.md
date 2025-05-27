@@ -61,6 +61,7 @@ Whether you're building a frontend integration, mobile app, or admin dashboard, 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
