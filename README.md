@@ -11,6 +11,7 @@
 <!-- - 🎥 I teach web dev to **millions** on **[YouTube](https://youtube.com/@pedrotechnologies)**  -->
 - 🎯 I’m working web dev to **CTO** on **[Almusanid](https://almusanid.com/)**
 - 🐙 My GitHub **[CTO-development](https://github.com/CTO-development)**
+- 🐧 My server Backend on **[APIs](https://khuzam.io/)**
 - 💻 Passionate about building fullstack apps with **JavaScript**, **PHP**, **Python**, **Next.js**, **TypeScript**, and **Supabase**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **Server VPS** and **Server Linux**
@@ -42,6 +43,7 @@ Welcome to the **OZCCO API Documentation** — a complete developer reference cr
 Whether you're building a frontend integration, mobile app, or admin dashboard, this documentation will help you **navigate and master every OZCCO API endpoint with confidence**.
 
 🚨 **[👉 Click here to OZCCO API Documentation](https://ozcco.khuzam.io/docs)**
+🚨 **[👉 Click here to Almusanid API Documentation](https://khuzam.io/documentation)**
 
 ### 🐧 Server & OS Stack
 
