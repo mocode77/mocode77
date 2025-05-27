@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 
-- 🧰 I working web dev to **CTO** on **[Almusanid](https://almusanid.com/)**
 <!-- - 🎥 I teach web dev to **millions** on **[YouTube](https://youtube.com/@pedrotechnologies)**  -->
+- 🧰 I working web dev to **CTO** on **[Almusanid](https://almusanid.com/)**
 - 💻 Passionate about building fullstack apps with **JavaScript**, **PHP**, **Python**, **Next.js**, **TypeScript**, and **Supabase**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **Server VPS** and **Server Linux**
