@@ -29,11 +29,19 @@
 
 ---
 
-## 📚 Check Out My React Course!
+## 📚 About **OZCCO API Documentation**
 
-> Learn **React.js from zero to hero** in my full video course, packed with hands-on projects and modern practices.
+Welcome to the **OZCCO API Documentation** — a complete developer reference crafted as part of my full video course. This guide is packed with:
 
-🚨 **[👉 Click here to access the course](https://react.pedrotech.co)**
+- ✅ Real-world hands-on projects  
+- 🚀 Modern RESTful practices  
+- 🔐 Auth workflows with token-based security  
+- 📦 Clean, scalable Django architecture  
+- 💡 Practical insights into API versioning, pagination, filtering, and more  
+
+Whether you're building a frontend integration, mobile app, or admin dashboard, this documentation will help you **navigate and master every OZCCO API endpoint with confidence**.
+
+🚨 **[👉 Click here to OZCCO API Documentation](https://ozcco.khuzam.io/docs)**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php)
@@ -63,6 +71,6 @@
 ## 🤝 Connect with Me
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/504877945)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pedrotech__)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pedro.fmachado_)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrotech)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Desin_user)
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pedro.fmachado_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrotech)-->
