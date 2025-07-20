@@ -104,5 +104,5 @@ Whether you're building a frontend integration, mobile app, or admin dashboard, 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Desin_user)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pedro.fmachado_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrotech)-->
-<img src="https://codegloble.com/upload/home_about/1838163032207316.svg" alt="OZCCO API Logo" width="300" />
+<img src="https://codegloble.com/upload/home_about/1838163032207316.svg" alt="OZCCO API Logo" width="50" />
 
