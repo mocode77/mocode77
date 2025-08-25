@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Mahjoub – **Based in KSA** 👨‍💻 
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Integration+%7C+Smart+Solutions" alt="Typing SVG" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Backend+Dev+%7C+Python+Enthusiast;Python+🚀+Modern+RESTful+practices;" alt="Typing SVG" />
 </div>
 
